@@ -4,6 +4,9 @@
 
 ## Papers
 
+### 2024
+- OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (**CVPR24**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ahmed_OrCo_Towards_Better_Generalization_via_Orthogonality_and_Contrast_for_Few-Shot_CVPR_2024_paper.html)]
+
 ### 2023
 
 - On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR23**)[[paper](https://openreview.net/pdf?id=z57WK5lGeHd)]
